@@ -1,0 +1,17 @@
+{
+  "name": "github-copilot-claude-haiku",
+  "version": "1.0.0",
+  "description": "Send message to Claude Haiku 4.5 model and get response",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": ["claude", "haiku", "anthropic", "ai"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@github/copilot-sdk": "^1.0.0"
+  }
+}
